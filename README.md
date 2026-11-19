@@ -1,13 +1,10 @@
 # Diego Gallardo
 
-**Web apps and AI.**  
 Interfaces. Models. Systems.
 
 [site](https://dgallardo.vercel.app) · [linkedin](https://www.linkedin.com/in/diego-gallardo-roman/) · [email](mailto:grdiego2646@gmail.com) · [x](https://x.com/grdiego9)
 
 ```text
-diego gallardo román
-
 base            málaga, spain
 focus           web apps and ai
 study           ai & big data
