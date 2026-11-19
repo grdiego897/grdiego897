@@ -36,56 +36,8 @@ languages       spanish · english C1
 | Full-stack · Applied AI | DS Consultores · Barbate | Mar 2026 — May 2026 |
 | Web · Applied AI | DS Consultores · Barbate | Apr 2025 — May 2025 |
 
-## 03. Stack
 
-**Languages**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,php,java,cs,dotnet&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,cs,dotnet&theme=light" height="30" alt="Python, JavaScript, TypeScript, PHP, Java, C#, .NET">
-</picture>
-
-`SQL`
-
-**Intelligence**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLMs-161b22?style=flat-square&logoColor=e6edf3">
-  <img src="https://img.shields.io/badge/LLMs-f3f4f6?style=flat-square&logoColor=1f2328" height="22" alt="LLMs">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG-161b22?style=flat-square&logoColor=e6edf3">
-  <img src="https://img.shields.io/badge/RAG-f3f4f6?style=flat-square&logoColor=1f2328" height="22" alt="RAG">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MCP-161b22?style=flat-square&logo=anthropic&logoColor=e6edf3">
-  <img src="https://img.shields.io/badge/MCP-f3f4f6?style=flat-square&logo=anthropic&logoColor=1f2328" height="22" alt="MCP">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLMOps-161b22?style=flat-square&logoColor=e6edf3">
-  <img src="https://img.shields.io/badge/LLMOps-f3f4f6?style=flat-square&logoColor=1f2328" height="22" alt="LLMOps">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=e6edf3">
-  <img src="https://img.shields.io/badge/Pandas-f3f4f6?style=flat-square&logo=pandas&logoColor=1f2328" height="22" alt="Pandas">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=e6edf3">
-  <img src="https://img.shields.io/badge/Jupyter-f3f4f6?style=flat-square&logo=jupyter&logoColor=1f2328" height="22" alt="Jupyter">
-</picture>
-
-**Systems**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,laravel,fastapi,docker,linux,git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,laravel,fastapi,docker,linux,git&theme=light" height="30" alt="React, Laravel, FastAPI, Docker, Linux, Git">
-</picture>
-
-`Power Automate`
-
-
-
-## 04. Lab
+## 03. Lab
 
 Some cool stuff I built outside of work.
 
