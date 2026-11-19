@@ -41,4 +41,4 @@ Some cool stuff I built outside of work.
 
 
 
-<p align="center"><sub>Passionate about technology's potential to create abundance for humanity.</sub></p>
+<p align="center"><sub>Passionate about technology's potential to create abundance for humanity.</p>
