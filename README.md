@@ -4,13 +4,6 @@ Interfaces. Models. Systems.
 
 [site](https://dgallardo.vercel.app) · [linkedin](https://www.linkedin.com/in/diego-gallardo-roman/) · [email](mailto:grdiego2646@gmail.com) · [x](https://x.com/grdiego9)
 
-```text
-base            málaga, spain
-focus           web apps and ai
-study           ai & big data
-languages       spanish · english C1
-```
-
 ## 01. Education
 
 | Program | Place | Dates |
@@ -26,7 +19,6 @@ languages       spanish · english C1
 | Advanced Git | OpenWebinars | 2026 |
 | Foundational C# | Microsoft · freeCodeCamp | 2025 |
 | C1 Advanced English | Cambridge | 2023 |
-
 <br>
 
 ## 02. Experience
