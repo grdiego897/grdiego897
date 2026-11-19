@@ -27,7 +27,7 @@ Interfaces. Models. Systems.
 | :--- | :--- | :--- |
 | Full-stack · Applied AI | DS Consultores · Barbate | Mar 2026 — May 2026 |
 | Web · Applied AI | DS Consultores · Barbate | Apr 2025 — May 2025 |
-
+<br>
 
 ## 03. Lab
 
