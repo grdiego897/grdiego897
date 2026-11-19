@@ -1,5 +1,3 @@
-# Diego Gallardo
-
 Interfaces. Models. Systems.
 
 [site](https://dgallardo.vercel.app) · [linkedin](https://www.linkedin.com/in/diego-gallardo-roman/) · [email](mailto:grdiego2646@gmail.com) · [x](https://x.com/grdiego9)
