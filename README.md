@@ -1,16 +1,103 @@
-## Hi there 👋
+# Diego Gallardo
 
-<!--
-**grdiego897/grdiego897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web apps and AI.**  
+Interfaces. Models. Systems.
 
-Here are some ideas to get you started:
+[site](https://dgallardo.vercel.app) · [linkedin](https://www.linkedin.com/in/diego-gallardo-roman/) · [email](mailto:grdiego2646@gmail.com) · [x](https://x.com/grdiego9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+diego gallardo román
+
+base            málaga, spain
+focus           web apps and ai
+study           ai & big data
+languages       spanish · english C1
+```
+
+## 01. Education
+
+| Program | Place | Dates |
+| :--- | :--- | :--- |
+| AI & Big Data | Master's FP · Málaga | 2026 — |
+| Web Application Development | Higher Technician · Cádiz | 2024 — 2026 |
+
+| Credential | Issuer | Year |
+| :--- | :--- | :--- |
+| Foundry & AIP | Palantir Technologies | 2026 |
+| Model Context Protocol | Anthropic | 2026 |
+| Advanced SQL Server | OpenWebinars | 2026 |
+| Advanced Git | OpenWebinars | 2026 |
+| Foundational C# | Microsoft · freeCodeCamp | 2025 |
+| C1 Advanced English | Cambridge | 2023 |
+
+<br>
+
+## 02. Experience
+
+| Role | Place | Dates |
+| :--- | :--- | :--- |
+| Full-stack · Applied AI | DS Consultores · Barbate | Mar 2026 — May 2026 |
+| Web · Applied AI | DS Consultores · Barbate | Apr 2025 — May 2025 |
+
+## 03. Stack
+
+**Languages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,php,java,cs,dotnet&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,cs,dotnet&theme=light" height="30" alt="Python, JavaScript, TypeScript, PHP, Java, C#, .NET">
+</picture>
+
+`SQL`
+
+**Intelligence**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLMs-161b22?style=flat-square&logoColor=e6edf3">
+  <img src="https://img.shields.io/badge/LLMs-f3f4f6?style=flat-square&logoColor=1f2328" height="22" alt="LLMs">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG-161b22?style=flat-square&logoColor=e6edf3">
+  <img src="https://img.shields.io/badge/RAG-f3f4f6?style=flat-square&logoColor=1f2328" height="22" alt="RAG">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MCP-161b22?style=flat-square&logo=anthropic&logoColor=e6edf3">
+  <img src="https://img.shields.io/badge/MCP-f3f4f6?style=flat-square&logo=anthropic&logoColor=1f2328" height="22" alt="MCP">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLMOps-161b22?style=flat-square&logoColor=e6edf3">
+  <img src="https://img.shields.io/badge/LLMOps-f3f4f6?style=flat-square&logoColor=1f2328" height="22" alt="LLMOps">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=e6edf3">
+  <img src="https://img.shields.io/badge/Pandas-f3f4f6?style=flat-square&logo=pandas&logoColor=1f2328" height="22" alt="Pandas">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=e6edf3">
+  <img src="https://img.shields.io/badge/Jupyter-f3f4f6?style=flat-square&logo=jupyter&logoColor=1f2328" height="22" alt="Jupyter">
+</picture>
+
+**Systems**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,laravel,fastapi,docker,linux,git&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,laravel,fastapi,docker,linux,git&theme=light" height="30" alt="React, Laravel, FastAPI, Docker, Linux, Git">
+</picture>
+
+`Power Automate`
+
+
+
+## 04. Lab
+
+Some cool stuff I built outside of work.
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Starsim](https://github.com/grdiego897/starsim)** · [demo](https://youtu.be/MWTPqmSnZdc) | Space-mission simulator for launch operations and satellite constellations, including Starbase. SGP4-inspired propagation, mission programming, role-based access. Capstone, 9.38 / 10. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,js,docker&theme=dark"><img src="https://skillicons.dev/icons?i=laravel,js,docker&theme=light" height="22" alt="Laravel, JavaScript, Docker"></picture> |
+| **[MARPS Bellona](https://marps-bellona.vercel.app)** · [nasa space apps](https://www.spaceappschallenge.org/2026/find-a-team/ignis-orbis/?tab=project) | Adaptive multidimensional navigation and AI mission assistant for Mars exploration. NASA Space Apps 2026. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi&theme=dark"><img src="https://skillicons.dev/icons?i=py,fastapi&theme=light" height="22" alt="Python, FastAPI"></picture>|
+
+
+
+
+<p align="center"><sub>Passionate about technology's potential to create abundance for humanity.</sub></p>
